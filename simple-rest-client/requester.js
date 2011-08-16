@@ -47,6 +47,8 @@ statusCodes[503] = 'Service Unavailable';
 statusCodes[504] = 'Gateway Time-out';
 statusCodes[505] = 'HTTP Version not supported';
 
+// THis comment was written via github!! \m/
+
 function grow(id) {
   var textarea = document.getElementById(id);
   var newHeight = textarea.scrollHeight;
